@@ -2,6 +2,6 @@
 - I'm currently studying computer sciences and maths applied to cognitive sciences at the Université Grenoble Alpes
 - Previous to that, I obtained a bachelor degree in computer science. 
 - 🌱 I’m currently learning Python and Java, and I'd like to start looking into C#, Golang and JavaScript.
-- You can find here my personnal projects. In the last few weeks I have discovered the power of python's Bs4, so i'm on a scraping spree.
+- You can find here my personnal projects. I am currently learning Python Selenium, and I'm updating mostly ProxyScrape at the moment. I will also finish PixelArray this summer.
 - 💞️ I’m looking to collaborate on any project, in Python or Java. I'm open to anything, I'm eager to learn.
 - 📫 You can contact me on discord at MattV#7337.
