@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrankRock, but you can call me Mat !
-- I'm currently studying computer sciences and maths applied to cognitive sciences at the Université Grenoble Alpes
+- I'm currently studying computer sciences in a Master degree at the Université Grenoble Alpes
 - Previous to that, I obtained a bachelor degree in computer science. 
 - 🌱 I’m currently learning Python and Java, and I'd like to start looking into C#, Golang and JavaScript.
 - You can find here my personnal projects. I am currently learning Python Selenium, and I'm updating mostly ProxyScrape at the moment. I will also finish PixelArray this summer.
