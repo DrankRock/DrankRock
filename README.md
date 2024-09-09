@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DrankRock, but you can call me Mat !
-- I'm currently studying computer sciences in a Master degree at the Université Grenoble Alpes
-- Previous to that, I obtained a bachelor degree in computer science, and a bachelor degree in Math and CS applied to Social Science
-- 🌱 I’m currently learning C#, and WindowsBuilder, but most of my projects are in python for the simplicity of it
+- Hi, I’m @DrankRock, but you can call me Mat !
+- I recently became a software engineer after completing a Master's degree in Computer Science.
 - You can find here my personnal projects.
+- All my projects are licensed under the MIT License. I start a lot of them, and don't complete them all. Feel free to fork them and finish them, i'll happily modify the Readme to direct people to your work
 - 📫 You can contact me on discord at MattV#7337, or by mail at mat(DOT)github(DOT)vei(AT)gmail(DOT)com
