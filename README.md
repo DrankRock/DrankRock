@@ -2,4 +2,5 @@
 - I recently became a software engineer after completing a Master's degree in Computer Science.
 - You can find here my personnal projects.
 - All my projects are licensed under the MIT License. I start a lot of them, and don't complete them all. Feel free to fork them and finish them, i'll happily modify the Readme to direct people to your work
-- 📫 You can contact me on discord at MattV#7337, or by mail at mat(DOT)github(DOT)vei(AT)gmail(DOT)com
+- 📫 You can contact me on discord at grandmatvei, or by mail at mat(DOT)github(DOT)vei(AT)gmail(DOT)com
+- I am currently doing mostly scraping, but will slowly broaden my interests to counter the challenges-less, tasteless coding world, ai is creating.
